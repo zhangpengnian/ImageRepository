@@ -1,2 +1,2 @@
 # ImageRepository
-私人床图
+私人图床
